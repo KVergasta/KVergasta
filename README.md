@@ -7,14 +7,15 @@
 
 
 
-👩‍💻 Cursando ciências da computação
+👩‍💻 Cursando ciências da computação 5/8
 
 
 
 
 
 ## 🛠 Habilidades
-🐍Python
+
+## 💼 Experiência
 
 
 
