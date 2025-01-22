@@ -15,11 +15,11 @@
 
 
 ## 🛠 Habilidades
-☕ Java 🟦🟦🟦🟩🟨
+☕ Java 
 
-🐍 Python 🟦🟨🟥🟥🟥
+🐍 Python 
 
-🟨 JavaScript 🟨🟥🟥🟥🟥
+🟨 JavaScript 
 
 ## 💼 Experiência
 💧Estagiária na EMBASA 2025
