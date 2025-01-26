@@ -17,7 +17,7 @@
 ## 🛠 Habilidades
 ☕ Java 
 
-  🌿Spring
+            🌿Spring
 
 🐍 Python 
 
