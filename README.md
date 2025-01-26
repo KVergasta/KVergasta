@@ -20,8 +20,10 @@
             🌿Spring
 
 🐍 Python 
+            
 
 🟨 JavaScript 
+            
 
 ## 💼 Experiência
 💧Estagiária na EMBASA 2025
