@@ -7,7 +7,7 @@
 
 
 
-👩‍💻Cursando ciências da computação 5/8
+👩‍💻Cursando ciências da computação 6/8
 
 
 
