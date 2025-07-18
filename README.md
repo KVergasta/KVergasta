@@ -18,11 +18,11 @@
 ☕ Java 
 
             🌿Spring
-
-🐍 Python 
             
 
 🟨 JavaScript 
+🟧 HTML
+🟦 CSS
             
 
 ## 💼 Experiência
