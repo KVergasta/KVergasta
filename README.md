@@ -35,4 +35,6 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 
 ---
 
-## 📫 Vamos nos conectar?
+###📫 Vamos nos conectar?
+https://www.linkedin.com/in/kauane-vergasta-a3a602219/
+
