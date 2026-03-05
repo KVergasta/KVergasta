@@ -15,7 +15,6 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 | **Dados** | SQL, PostgreSQL, Persistência de arquivos (CSV/JSON) |
 | **Metodologias** | Scrum, Clean Code, SOLID |
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KVergasta&layout=compact&langs_count=7&theme=dracula)
 ---
 
 ## 💼 Experiência Profissional
