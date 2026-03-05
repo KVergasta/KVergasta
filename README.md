@@ -8,12 +8,28 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 
 ## 🛠 Minha Forja (Habilidades)
 
-| Categoria | Tecnologias |
-| --- | --- |
-| **Back-end** | Java, Spring Boot (Data, Security, MVC), Maven, JUnit |
-| **Front-end** | TypeScript, Angular, JavaScript, HTML5, CSS3 |
-| **Dados** | SQL, PostgreSQL, Persistência de arquivos (CSV/JSON) |
-| **Metodologias** | Scrum, Clean Code, SOLID |
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>Back-end:</b> Java, Spring Boot (Data, Security, MVC), Maven, JUnit<br>
+      <b>Front-end:</b> TypeScript, Angular, JavaScript, HTML5, CSS3<br>
+      <b>Dados:</b> SQL, PostgreSQL, Persistência de arquivos (CSV/JSON)<br>
+      <b>Metodologias:</b> Scrum, Clean Code, SOLID
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVergasta&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KVergasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KVergasta&theme=dracula" />
+</div>
 
 ---
 
@@ -29,12 +45,16 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 
 ## 🏆 Desafios & Conquistas
 
-* **Desafio 100 Dias de Código:** Focado em fortalecer a lógica de programação e novos frameworks.
-* **[Logistic Manager](https://github.com/KVergasta/LogisticManager):** Sistema de gestão logística com cálculo de frete complexo e testes automatizados.
-* **Certificação:** Scrum Fundamentals Certified (SFC).
+* **🚀 Desafio 100 Dias de Código:** Focado em fortalecer a lógica de programação e novos frameworks.
+* **📦 [Logistic Manager](https://github.com/KVergasta/LogisticManager):** Sistema de gestão logística com cálculo de frete complexo e testes automatizados.
+* **📜 Certificação:** Scrum Fundamentals Certified (SFC).
 
 ---
 
-###📫 Vamos nos conectar?
-https://www.linkedin.com/in/kauane-vergasta-a3a602219/
+## 📫 Vamos nos conectar?
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kauane-vergasta-a3a602219/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
