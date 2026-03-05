@@ -16,9 +16,6 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
       <b>Dados:</b> SQL, PostgreSQL, Persistência de arquivos (CSV/JSON)<br>
       <b>Metodologias:</b> Scrum, Clean Code, SOLID
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVergasta&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-    </td>
   </tr>
 </table>
 
