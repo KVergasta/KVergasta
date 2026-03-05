@@ -1,9 +1,3 @@
-Para elevar o nível do seu README e torná-lo tão profissional quanto o seu LinkedIn, o ideal é focar em **hierarquia visual** e **clareza técnica**. Como você gosta da estética RPG e de organização, podemos estruturar as informações de forma que o recrutador bata o olho e entenda seu potencial.
-
-Aqui está uma proposta de melhoria mantendo seu estilo, mas adicionando "peso" profissional:
-
----
-
 # Olá, eu sou a Kauane Vergasta! 👋
 
 ### 👩‍💻 Desenvolvedora Full Stack | Java & Angular
