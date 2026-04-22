@@ -13,7 +13,7 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
     <td width="50%">
       <b>Back-end:</b> Java, Spring Boot (Data, Security, MVC), Maven, JUnit<br>
       <b>Front-end:</b> TypeScript, Angular, JavaScript, HTML5, CSS3<br>
-      <b>Dados:</b> SQL, PostgreSQL, Persistência de arquivos (CSV/JSON)<br>
+      <b>Dados:</b> SQL, MySQL, Persistência de arquivos (CSV/JSON)<br>
       <b>Metodologias:</b> Scrum, Clean Code, SOLID
     </td>
   </tr>
