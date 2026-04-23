@@ -6,7 +6,7 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 
 ---
 
-## 🛠 Minha Forja (Habilidades)
+## 🛠 Habilidades
 
 <table align="center">
   <tr>
