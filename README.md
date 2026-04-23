@@ -34,9 +34,10 @@ Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar 
 ## 🏆 Desafios & Conquistas
 
 * **❤️ Portifólio:** https://kvergasta.github.io/PortifolioKV/
+* **📜 Certificação:** Scrum Fundamentals Certified (SFC).
 * **🚀 Desafio 100 Dias de Código:** Focado em fortalecer a lógica de programação e novos frameworks.
 * **📦 [Logistic Manager](https://github.com/KVergasta/LogisticManager):** Sistema de gestão logística com cálculo de frete complexo e testes automatizados.
-* **📜 Certificação:** Scrum Fundamentals Certified (SFC).
+* **📩 NotificationHUB:** 
 
 ---
 
