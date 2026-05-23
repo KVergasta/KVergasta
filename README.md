@@ -24,6 +24,7 @@ graph TD
 
     B --> B1[Java / Spring Boot]
     B --> B2[Spring Security]
+    B --> B2[Spring Data]
     B --> B3[JUnit / Mockito]
 
     C --> C1[TypeScript / Angular]
