@@ -1,50 +1,34 @@
 # Olá, eu sou a Kauane Vergasta! 👋
 
-### 👩‍💻 Desenvolvedora Full Stack | Java & Angular
+### 👩‍💻 Software Engineer | Desenvolvedora Full Stack Java & Angular
 
-Sou estudante de **Ciência da Computação (7/8)**, apaixonada por transformar problemas complexos em código limpo e eficiente. Tenho experiência prática no desenvolvimento de soluções corporativas e foco constante em boas práticas de arquitetura.
-
----
-
-## 🛠 Habilidades
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <b>Back-end:</b> Java, Spring Boot (Data, Security, MVC), Maven, JUnit, Docker<br>
-      <b>Front-end:</b> TypeScript, Angular, JavaScript, HTML5, CSS3<br>
-      <b>Dados:</b> SQL, PostegresSQL, Persistência de arquivos (CSV/JSON)<br>
-      <b>Metodologias:</b> Scrum, Clean Code, SOLID
-    </td>
-  </tr>
-</table>
+Graduanda em **Ciência da Computação** apaixonada por transformar regras de negócio complexas em arquiteturas de software limpas, escaláveis e eficientes. Com experiência prática no desenvolvimento de sistemas corporativos, foco em criar soluções orientadas a eventos e alta performance.
 
 ---
 
-## 💼 Experiência Profissional
+## 📊 Visão Geral e Indicadores
 
-**💧 EMBASA | Estagiária de Desenvolvimento Full Stack** *2025 – Presente*
-
-* Atuação no desenvolvimento de sistemas internos utilizando **Java** e **Angular**.
-* Foco em otimização de consultas em banco de dados e melhoria da experiência do usuário (UX).
-* Colaboração em ambiente ágil com foco em entrega de valor contínua.
+![Status do Build](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Vagas-success?style=for-the-badge&color=2ecc71)
+![Main Stack](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20%7C%20Angular-blue?style=for-the-badge&color=3498db)
+![Certificação](https://img.shields.io/badge/Certification-Scrum%20SFC-orange?style=for-the-badge)
 
 ---
 
-## 🏆 Desafios & Conquistas
+## 🛠 Ecossistema Técnico
 
-* **❤️ Portifólio:** https://kvergasta.github.io/PortifolioKV/
-* **📜 Certificação:** Scrum Fundamentals Certified (SFC).
-* **🚀 Desafio 100 Dias de Código:** Focado em fortalecer a lógica de programação e novos frameworks.
-* **📦 [Logistic Manager](https://github.com/KVergasta/LogisticManager):** Sistema de gestão logística com cálculo de frete complexo e testes automatizados.
-* **📩 NotificationHUB:** 
+```mermaid
+graph TD
+    A[Full Stack Developer] --> B(Back-end)
+    A --> C(Front-end)
+    A --> D(Infra & Dados)
 
----
+    B --> B1[Java / Spring Boot]
+    B --> B2[Spring Security]
+    B --> B3[JUnit / Mockito]
 
-## 📫 Vamos nos conectar?
+    C --> C1[TypeScript / Angular]
+    C --> C2[RxJS / Signals]
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kauane-vergasta-a3a602219/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+    D --> D1[Apache Kafka]
+    D --> D2[Docker]
+    D --> D3[PostgreSQL]
