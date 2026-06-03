@@ -1,8 +1,8 @@
 # 🚂 Kauane Vergasta
 
-<p align="center">
   <!-- Você pode substituir esse link por um GIF de sua preferência, como o Totoro ou o trem flutuante -->
-  <img src="https://giphy.com/gifs/maudit-my-neighbor-totoro-x5HlLDaLMZNVS" alt="Ghibli Train Pixel Art" width="100%" max-height="300px">
+<p align="center">
+  <img src="https://media.giphy.com/media/x5HlLDaLMZNVS/giphy.gif" alt="Ghibli Totoro" width="100%" height="300px" style="object-fit: cover;">
 </p>
 
 ## 🍃 Welcome to my Secret Garden
