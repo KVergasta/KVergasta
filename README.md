@@ -2,14 +2,14 @@
 
 <p align="center">
   <!-- Você pode substituir esse link por um GIF de sua preferência, como o Totoro ou o trem flutuante -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmNidXByb21wZ3NndmZ3dHRudXoxYmR2ZXRhcWtkdW13bDQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12UlfHpF05K3fi/giphy.gif" alt="Ghibli Train Pixel Art" width="100%" max-height="300px">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmNidXByb21wZ3NndmZ3dHRudXoxYmR2ZXRhcWtkdW13bDQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12UlfHpF05K3fi/giphy.gif](https://giphy.com/gifs/maudit-my-neighbor-totoro-x5HlLDaLMZNVS)" alt="Ghibli Train Pixel Art" width="100%" max-height="300px">
 </p>
 
 ## 🍃 Welcome to my Secret Garden
 
 > *"Once you've met someone, you never really forget them. It just takes a little while for their memories to return." — Spirited Away*
 
-### 🧺 Alquimista de Software | Desenvolvedora Full Stack Java & Angular
+### 🧺Desenvolvedora Full Stack Java & Angular
 
 Graduanda em **Ciência da Computação** apaixonada por cultivar soluções limpas e ver arquiteturas complexas florescerem de forma eficiente. Assim como os intrincados mecanismos do *Castelo Animado*, encaro o desafio de sistemas corporativos transformando regras de negócio em fluxos orientados a eventos, escaláveis e cheios de harmonia.
 
