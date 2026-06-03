@@ -1,4 +1,4 @@
-# 🚂 Kauane Vergasta
+# Kauane Vergasta
 
 <p align="center">
   <img src="https://media.giphy.com/media/x5HlLDaLMZNVS/giphy.gif" alt="Ghibli Totoro" width="100%" height="300px" style="object-fit: cover;">
@@ -12,7 +12,7 @@
 
 ### Resumo
 
-<img src="https://i.pinimg.com/1200x/12/08/2d/12082d516103bd912249a2b2e049a379.jpg" alt="Ghibli Estudando" align="right" width="280px" height="280px" style="margin-left: 15px; border-radius: 8px;">
+<img src="https://i.pinimg.com/1200x/12/08/2d/12082d516103bd912249a2b2e049a379.jpg" alt="Ghibli Estudando" align="right" width="200px" height="200px" style="margin-left: 15px; border-radius: 8px;">
 
 <p align="justify">
 Estudante do curso de Ciência da Computação. Possuo habilidades em desenvolvimento full-stack, com destaque para Java, Spring, Angular, HTML/CSS/JavaScript, SQL, Docker, Kafka, além de experiência prática em correção de bugs e versionamento de código (Git/GitLab) durante estágio na EMBASA.
